@@ -1,0 +1,7 @@
+package com.legendarius.simpleItemsMod.item;
+
+import net.minecraft.item.ItemArmor;
+
+public class ItemAdmHelm1 extends ItemArmor {
+
+}

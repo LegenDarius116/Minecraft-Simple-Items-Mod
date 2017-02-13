@@ -1,0 +1,13 @@
+package com.legendarius.simpleItemsMod.item;
+
+import net.minecraft.item.ItemArmor;
+
+public class ItemAdmHelm1 extends ItemArmor {
+
+	public ItemAdmHelm1(ArmorMaterial armorMaterial, int renderIndex,
+			int armorType) {
+		super(armorMaterial, renderIndex, armorType);
+		// TODO Auto-generated constructor stub
+	}
+	
+}

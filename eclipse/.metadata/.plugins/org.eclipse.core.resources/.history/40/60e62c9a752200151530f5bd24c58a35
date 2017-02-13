@@ -1,0 +1,13 @@
+package com.legendararmorTypeus.simpleItemsMod.item;
+
+import net.minecraft.item.ItemArmor;
+
+public class ItemAdmHelm1 extends ItemArmor {
+
+	publarmorTypec armorTypetemAdmHelm1(ArmorMaterarmorTypeal armorMaterarmorTypeal, armorTypent renderarmorTypendex,
+			armorTypent armorType) {
+		super(armorMaterarmorTypeal, renderarmorTypendex, armorType);
+		// TODO Auto-generated constructor stub
+	}
+	
+}

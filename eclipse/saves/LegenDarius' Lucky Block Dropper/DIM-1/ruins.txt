@@ -1,0 +1,185 @@
+# Global Options for the Ruins mod
+#
+# tries_per_chunk is the number of times, per chunk, that the generator will
+#     attempt to create a ruin.
+#
+# chance_to_spawn is the chance, out of 100, that a ruin will be generated per
+#     try in this chunk.  This may still fail if the ruin does not have a
+#     suitable place to generate.
+#
+# chance_for_site is the chance, out of 100, that another ruin will attempt to
+#     spawn nearby if a ruin was already successfully spawned.  This bypasses
+#     the normal tries per chunk, so if this chance is set high you may end up
+#     with a lot of ruins even with a low tries per chunk and chance to spawn.
+#
+# specific_<biome name> is the chance, out of 100, that a ruin spawning in the
+#     specified biome will be chosen from the biome specific folder.  If not,
+#     it will choose a generic ruin from the folder of the same name.
+
+tries_per_chunk_normal=6
+chance_to_spawn_normal=10.0
+chance_for_site_normal=15.0
+
+tries_per_chunk_nether=6
+chance_to_spawn_nether=10
+chance_for_site_nether=15
+disableRuinSpawnCoordsLogging=true
+
+# minimum distance a template must have from instances of itself
+templateInstancesMinDistance=256
+# minimum distance a template must have from any other template
+anyRuinsMinDistance=64
+# dimension IDs whitelisted for ruins spawning, add custom dimensions IDs here as needed
+allowedDimensions=0,1,-1
+
+specific_Ocean=75
+specific_Plains=75
+specific_Desert=75
+specific_Extreme Hills=75
+specific_Forest=75
+specific_Taiga=75
+specific_Swampland=75
+specific_River=75
+specific_Hell=75
+specific_Sky=75
+specific_FrozenOcean=75
+specific_FrozenRiver=75
+specific_Ice Plains=75
+specific_Ice Mountains=75
+specific_MushroomIsland=75
+specific_MushroomIslandShore=75
+specific_Beach=75
+specific_DesertHills=75
+specific_ForestHills=75
+specific_TaigaHills=75
+specific_Extreme Hills Edge=75
+specific_Jungle=75
+specific_JungleHills=75
+specific_JungleEdge=75
+specific_Deep Ocean=75
+specific_Stone Beach=75
+specific_Cold Beach=75
+specific_Birch Forest=75
+specific_Birch Forest Hills=75
+specific_Roofed Forest=75
+specific_Cold Taiga=75
+specific_Cold Taiga Hills=75
+specific_Mega Taiga=75
+specific_Mega Taiga Hills=75
+specific_Extreme Hills+=75
+specific_Savanna=75
+specific_Savanna Plateau=75
+specific_Mesa=75
+specific_Mesa Plateau F=75
+specific_Mesa Plateau=75
+specific_Forested Archipelago=75
+specific_Pine Forest Archipelago=75
+specific_Polar Desert=75
+specific_Woodlands=75
+specific_Woodland Hills=75
+specific_Cypress Forest=75
+specific_Boreal Forest=75
+specific_Volcano=75
+specific_Plateau=75
+specific_Sandstone Ranges=75
+specific_Shrublands=75
+specific_Meadow=75
+specific_Alpine Mountains=75
+specific_Tundra=75
+specific_Fir Forest=75
+specific_Wastelands=75
+specific_Sandstone Canyons=75
+specific_Sandstone Canyon=75
+specific_Ephemeral Lake=75
+specific_Ephemeral Lake Edge=75
+specific_Boreal Plateau=75
+specific_Pine Forest=75
+specific_Mountainous Archipelago=75
+specific_Desert Archipelago=75
+specific_Tropical Archipelago=75
+specific_Frozen Archipelago=75
+specific_Grassy Archipelago=75
+specific_Rocky Desert=75
+specific_Scrub=75
+specific_Creek Bed=75
+specific_Sahara=75
+specific_Badlands=75
+specific_Oasis=75
+specific_Rainforest=75
+specific_Rainforest Valley=75
+specific_Blossom Woods=75
+specific_Blossom Hills=75
+specific_Oak Forest=75
+specific_Kakadu=75
+specific_Mountains=75
+specific_Mountains Edge=75
+specific_Scree=75
+specific_Xeric Savannah=75
+specific_Steppe=75
+specific_Prairie=75
+specific_Low Hills=75
+specific_Alpine Mountains Edge=75
+specific_Glacier=75
+specific_Rocky Hills=75
+specific_Shield=75
+specific_Clay Hills=75
+specific_Mangroves=75
+specific_Fens=75
+specific_Carr=75
+specific_Silver Pine Forest=75
+specific_Silver Pine Hills=75
+specific_Woodland Field=75
+specific_Aspen Forest=75
+specific_Aspen Hills=75
+specific_Basin=75
+specific_Lake=75
+specific_Clearing=75
+specific_Marsh=75
+specific_Alpine Tundra=75
+specific_Snowy Ranges=75
+specific_Red Desert=75
+specific_Xeric Shrubland=75
+specific_Sunflower Plains=75
+specific_Desert M=75
+specific_Extreme Hills M=75
+specific_Flower Forest=75
+specific_Taiga M=75
+specific_Swampland M=75
+specific_Riparian Zone=75
+specific_Ice Plains Spikes=75
+specific_Jungle M=75
+specific_JungleEdge M=75
+specific_Birch Forest M=75
+specific_Birch Forest Hills M=75
+specific_Roofed Forest M=75
+specific_Cold Taiga M=75
+specific_Mega Spruce Taiga=75
+specific_Mega Spruce Taiga=75
+specific_Extreme Hills+ M=75
+specific_Savanna M=75
+specific_Savanna Plateau M=75
+specific_Mesa (Bryce)=75
+specific_Mesa Plateau F M=75
+specific_Mesa Plateau M=75
+specific_Flowery Archipelago=75
+specific_Boreal Archipelago=75
+specific_Ice Sheet=75
+specific_Forested Mountains=75
+specific_Forested Valley=75
+specific_Cold Cypress Forest=75
+specific_Cold Boreal Forest=75
+specific_Volcano M=75
+specific_Snowy Plateau=75
+specific_Sandstone Ranges M=75
+specific_Roofed Shrublands=75
+specific_Meadow M=75
+specific_Alpine Mountains M=75
+specific_Snowy Desert=75
+specific_Cold Fir Forest=75
+specific_Snowy Wastelands=75
+specific_Stone Canyons=75
+specific_Stone Canyon=75
+specific_Woodland Lake=75
+specific_Woodland Lake Edge=75
+specific_Boreal Plateau M=75
+specific_Cold Pine Forest=75

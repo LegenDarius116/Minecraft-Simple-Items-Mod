@@ -1,0 +1,49 @@
+[16:45:53] [main/INFO]: Setting user: Player117
+[16:45:54] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:45:57] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Simple Items Mod
+[16:45:58] [Sound Library Loader/INFO]: Sound engine started
+[16:45:58] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:45:58] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:45:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Simple Items Mod
+[16:45:58] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:45:58] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:45:59] [Sound Library Loader/INFO]: Sound engine started
+[16:46:04] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:46:04] [Server thread/INFO]: Generating keypair
+[16:46:04] [Server thread/INFO]: Preparing start region for level 0
+[16:46:05] [Server thread/INFO]: Preparing spawn area: 77%
+[16:46:05] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:46:06] [Server thread/INFO]: Player117[local:E:e96bc6bc] logged in with entity id 258 at (-6.404444338501648, 70.0, 0.6358847400651313)
+[16:46:06] [Server thread/INFO]: Player117 joined the game
+[16:46:08] [Server thread/INFO]: Saving and pausing game...
+[16:46:08] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[16:46:08] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[16:46:08] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[16:46:11] [Server thread/INFO]: Saving and pausing game...
+[16:46:11] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[16:46:11] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[16:46:11] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[16:46:15] [Server thread/INFO]: Saving and pausing game...
+[16:46:15] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[16:46:15] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[16:46:15] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[16:46:40] [Server thread/INFO]: Player117 has just earned the achievement [Taking Inventory]
+[16:46:40] [Client thread/INFO]: [CHAT] Player117 has just earned the achievement [Taking Inventory]
+[16:46:44] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[16:46:57] [Server thread/INFO]: [@: Teleported Player117 to 20.5,70.5,20.5]
+[16:46:57] [Client thread/INFO]: [CHAT] [@: Teleported Player117 to 20.5,70.5,20.5]
+[16:47:05] [Server thread/INFO]: [Player117: Set the time to 1000]
+[16:47:05] [Client thread/INFO]: [CHAT] Set the time to 1000
+[16:48:29] [Server thread/INFO]: [Player117: Teleported Player117 to 0.5,70.5,0.5]
+[16:48:29] [Client thread/INFO]: [CHAT] Teleported Player117 to 0.5,70.5,0.5
+[16:48:57] [Server thread/INFO]: Saving and pausing game...
+[16:48:57] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[16:48:57] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[16:48:57] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[16:48:57] [Server thread/INFO]: Stopping server
+[16:48:57] [Server thread/INFO]: Saving players
+[16:48:57] [Server thread/INFO]: Saving worlds
+[16:48:57] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[16:48:57] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[16:48:57] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[16:48:58] [Client thread/INFO]: Stopping!
